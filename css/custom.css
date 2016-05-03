@@ -1,0 +1,48 @@
+.big-header {
+	background-color: #830000;
+	height: 500px;
+	margin: 0;
+}
+
+hr {
+	border: solid 1px #930000;
+}
+
+#name {
+	font-family: 'Rock Salt', cursive;
+	color: white;
+}
+
+#role {
+	color: white;
+}
+
+.bio-pic {
+	width: 390px;
+	height: 500px;
+	background-image: url("../img/profile_pic.png");
+	background-position: bottom;
+	background-repeat: no-repeat;
+}
+
+.header-list {
+	list-style-type: none;
+	padding-bottom: 6px;
+	margin-left: -38px;
+}
+
+.white-text{
+	color:white;
+}
+
+.dark-red-text{
+	color: #450000;
+}
+
+.top-buffer{
+	margin-top: 80px;
+}
+
+.bottom-buffer{
+	margin-bottom: 80px;
+}
